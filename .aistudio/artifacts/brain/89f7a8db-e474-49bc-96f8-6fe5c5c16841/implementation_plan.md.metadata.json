@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for EMSCPS - ລະບົບນຳສົ່ງຄົນເຈັບ ໂຮງໝໍແຂວງຈຳປາສັກ (Champasak Provincial Hospital Referral System) featuring Turso integration with local storage fallback, 5-step mobile-responsive referral submission form with auto-GCS calculation, admin dashboard with analytics and CSV/PDF export, hospital management, and Noto Sans Lao typography.",
+  "updatedAt": "2026-11-06T00:41:55.416778383Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

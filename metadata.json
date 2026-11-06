@@ -1,0 +1,6 @@
+{
+  "name": "EMSCPS - ລະບົບນຳສົ່ງຄົນເຈັບ ໂຮງໝໍແຂວງຈຳປາສັກ",
+  "description": "ລະບົບຕິດຕາມ ແລະ ຄຸ້ມຄອງການນຳສົ່ງຄົນເຈັບຈາກໂຮງໝໍເມືອງມາຍັງໂຮງໝໍແຂວງຈຳປາສັກ (Champasak Provincial Hospital Referral System)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
